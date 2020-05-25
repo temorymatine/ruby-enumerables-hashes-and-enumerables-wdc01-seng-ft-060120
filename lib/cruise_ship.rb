@@ -8,7 +8,7 @@
 
 def select_winner(passengers)
   
-  chosen = ""
+ 
   
   passengers.each{|key, value| 
   
@@ -17,5 +17,5 @@ def select_winner(passengers)
   end 
   }
   
-  chosen
+  puts chosen
 end
