@@ -14,5 +14,5 @@ def select_winner(passengers)
     chosen = value
   end
   
-  value
+  chosen
 end
